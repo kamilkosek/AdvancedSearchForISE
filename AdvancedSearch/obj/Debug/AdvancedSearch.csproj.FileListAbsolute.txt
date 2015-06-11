@@ -1,0 +1,49 @@
+C:\Users\e0000058\documents\visual studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.csprojResolveAssemblyReference.cache
+C:\Users\e0000058\documents\visual studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.MainControl.baml
+C:\Users\e0000058\documents\visual studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.MainControl.g.cs
+C:\Users\e0000058\documents\visual studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch_MarkupCompile.cache
+C:\Users\e0000058\documents\visual studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.g.resources
+C:\Users\e0000058\documents\visual studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.Properties.Resources.resources
+C:\Users\e0000058\documents\visual studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.csproj.GenerateResource.Cache
+C:\Users\e0000058\Documents\WindowsPowerShell\Modules\AdvancedSearch\AdvancedSearch.dll
+C:\Users\e0000058\Documents\WindowsPowerShell\Modules\AdvancedSearch\AdvancedSearch.pdb
+C:\Users\e0000058\Documents\Visual Studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.dll
+C:\Users\e0000058\Documents\Visual Studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.pdb
+C:\Users\e0000058\documents\visual studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\About.baml
+C:\Users\e0000058\documents\visual studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\About.g.cs
+C:\Users\WindowsPowerShell\Modules\AdvancedSearch\AdvancedSearch.dll
+C:\Users\WindowsPowerShell\Modules\AdvancedSearch\AdvancedSearch.pdb
+C:\Users\Kamil\Desktop\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\AdvancedSearch\AdvancedSearch\obj\Debug\About.baml
+C:\Users\Kamil\Desktop\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.MainControl.baml
+C:\Users\Kamil\Desktop\AdvancedSearch\AdvancedSearch\obj\Debug\About.g.cs
+C:\Users\Kamil\Desktop\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.MainControl.g.cs
+C:\Users\Kamil\Desktop\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch_MarkupCompile.cache
+C:\Users\Kamil\Desktop\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.g.resources
+C:\Users\Kamil\Desktop\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.Properties.Resources.resources
+C:\Users\Kamil\Desktop\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.csproj.GenerateResource.Cache
+C:\Users\Kamil\Desktop\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.dll
+C:\Users\Kamil\Desktop\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.pdb
+C:\Users\Kamil\WindowsPowerShell\Modules\AdvancedSearch\AdvancedSearch.dll
+C:\Users\Kamil\WindowsPowerShell\Modules\AdvancedSearch\AdvancedSearch.pdb
+C:\Users\Kamil\Documents\WindowsPowerShell\Modules\AdvancedSearch\AdvancedSearch.dll
+C:\Users\Kamil\Documents\WindowsPowerShell\Modules\AdvancedSearch\AdvancedSearch.pdb
+C:\Users\e0000058\Documents\Visual Studio 2013\Documents\WindowsPowerShell\Modules\AdvancedSearch\AdvancedSearch.dll
+C:\Users\e0000058\Documents\Visual Studio 2013\Documents\WindowsPowerShell\Modules\AdvancedSearch\AdvancedSearch.pdb
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.csprojResolveAssemblyReference.cache
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\About.baml
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.MainControl.baml
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\About.g.cs
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.MainControl.g.cs
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch_MarkupCompile.cache
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.g.resources
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.Properties.Resources.resources
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.csproj.GenerateResource.Cache
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.dll
+C:\Users\Kamil.kosek\Documents\WindowsPowerShell\Modules\AdvancedSearch\AdvancedSearch.dll
+C:\Users\Kamil.kosek\Documents\WindowsPowerShell\Modules\AdvancedSearch\AdvancedSearch.pdb
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch.pdb
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\C#\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch_MarkupCompile.lref
+C:\Users\e0000058\documents\visual studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\e0000058\documents\visual studio 2013\Projects\AdvancedSearch\AdvancedSearch\obj\Debug\AdvancedSearch_MarkupCompile.lref
