@@ -28,7 +28,7 @@ namespace AdvancedSearch
                 {
                     ISEControls.PowerShellTab.VerticalAddOnTools.Add(Strings.addonName, typeof(AdvancedSearch.AdvancedSearchControl), true);
                 }
-
+            }
         }
         [Cmdlet(VerbsData.Import, "AdvancedSearchAddon")]
         public class ImportISEMarkdownExtension : PSCmdlet
