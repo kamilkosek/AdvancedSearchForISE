@@ -1,3 +1,4 @@
 # AdvancedSearch for ISE
 
-Visit [NT-Guys.com](http://nt-guys.com/advancedsearchiseaddon/) for an overview.
+
+This add-on is now officially part of [ISESteroids](http://www.powertheshell.com/isesteroids2-2/feature-overview/advanced-search/) and isn´t developed anymore by me.
